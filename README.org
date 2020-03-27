@@ -8,7 +8,7 @@
 
 * Community Help 
 
-[[http://cantstopdtn.com][cantstopdtn]] and the associated slack channel
+[[http://cantstopdtn.com][cantstopdtn]] and the [[https://cantstopdtn.slack.com][associated slack channel]]
 
 
 ** Face mask production
