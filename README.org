@@ -1,0 +1,59 @@
+#+TITLE: COVID-19 Resources
+
+* Data resources
+
+[[https://covidactnow.org/][Covid Act Now]]
+
+[[https://covidtracking.com/][Covid Tracking Project]]
+
+* Community Help 
+
+[[http://cantstopdtn.com][cantstopdtn]] and the associated slack channel
+
+
+** Face mask production
+
+[[http://masks.codefordayton.org/][Code For Dayton Masks page]]
+
+[[https://github.com/ejboettcher/DIY_MedicalLike_Facemask][Designs]]
+
+** Face shield production
+
+[[https://www.facebook.com/groups/596898614373109/][Resilience Dayton Mutual Aid Coronavirus response Facebook group]]
+
+** Face mask designs
+
+[[https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2][PRUSA]] and [[https://www.youtube.com/watch?v=pP7z3iw76GA][on youtube]]
+
+-  Pros: Designs are readily available. Just go to the website.
+-  Cons: I'm worried about attachment of the polyester film, especially since the sourced products that I can find are probably 2-3x the regular thickness of a normal face shield (20mil versus 7mil)
+
+[[https://drive.google.com/file/d/1cGgSBSNmGl_uRaTBdhNEIBULV6Jocae7/view?fbclid=IwAR0db-UXFqR0GyExrenje_XJY-nTAU5spMYCGwmUZXE6eeSp7u81niUHv6k][Johns Hopkins design: ]]
+- Pros: championed by AFRL in Rome, NY. Flat screen design allows for easy and FAST construction
+- Cons: I don't think the sponge and hot glue gun will hold up to the necessary sterilization 
+
+[[https://hackaday.io/project/170481/gallery#70a357164e91d3be47406abdac449e29][Laser Cut only, no 3d printing: ]]
+- Pros: Might be easy to sterilize since it is not porous? It doesn't need an elastic, which is supposedly hard to find.
+- Cons: Worried about the fit and its sturdiness
+
+[[https://www.coxhealth.com/innovation/][Cox Health Simple frame:]]
+- Pros: uses simple design
+- Cons: We would have to redo the design so that we can incorporate the frame and the nose piece. I would also redo the ear piece to make it more comfortable. I worry that the face shield is not far away enough from the face. 
+
+other people printing face masks ( https://copper3d.com/hackthepandemic/  ). UD Innovation Center is trying to do this one. 
+There is also much more complicated designs such as PAPR: https://github.com/jcl5m1/ventilator/wiki/Build-a-Low-Cost-PAPR?fbclid=IwAR1SFF7tiHxR_UB6CGFVdZU_4LqScXd1hA0ljU2RCraR1hoPlM0xUY9eOLw
+My doctor friends keep asking me to make a ventilator (but I wonder if that's because of their natural desire to protect the patient before giving concern about their own safety.) https://medium.com/@RobertLeeRead/the-state-of-open-source-ventilator-projects-as-of-march-21st-1f36bfb608b4
+
+However, right now, I am just focusing on face shields because there has been a huge effort to get cloth face masks and face shields seem to be the easiest way to add value on top of that.  If we are successful, we can decide to do something more in the future (or feel free to tinker with other designs yourself and post it.)
+
+So my path forward:
+1) I am currently trying to lock down a total amount of face masks to make. 
+2) I am trying to find as many people with 3D printers as possible to quickly get up to speed
+3) We need to source parts. I am currently working with a vendor on the polyester/PET film. I also need to source an elastic.
+4) We need to make a few prototypes to work out the kinks for us as well as to send it to the hospital for them to give us feedback.
+
+So, if you are interested in helping, I suggest that you use one of the designs listed above and start printing. My biggest concern is the size of the product, which needs to be about 9 inches at the maximum dimension.  People have suggested using PETG, but I think we are still in experimental phase, so please feel free to use what you think is best.
+
+If you want to get started, please choose a design. I am using this google spreadsheet to track what people are doing. So, please enter in what you plan on doing.
+Tracker: https://docs.google.com/spreadsheets/d/1ghtvzzZsdM9M7UoaqQaCmzLrOUbrx6o33yHLdPv_olo/edit?usp=sharing
+Google Docs folder: https://drive.google.com/drive/folders/11FZ0JMJ4r0PW9i3eu_Dn5gzbu9riJaek?usp=sharing
