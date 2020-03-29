@@ -23,6 +23,8 @@
 
 [[https://www.facebook.com/groups/596898614373109/][Resilience Dayton Mutual Aid Coronavirus response Facebook group]]
 
+[[https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3][PRUSA design RC3]]
+
 ** Face mask designs
 
 [[https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2][PRUSA]] and [[https://www.youtube.com/watch?v=pP7z3iw76GA][on youtube]]
