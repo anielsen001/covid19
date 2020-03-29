@@ -4,7 +4,9 @@
 
 [[https://covidactnow.org/][Covid Act Now]]
 
-[[https://covidtracking.com/][Covid Tracking Project]]
+[[https://covidtracking.com/][Covid Tracking Project]] and quick code to plot cases in getdata.py
+
+[[https://github.com/nytimes/covid-19-data][New York Times data on github]]
 
 * Community Help 
 
