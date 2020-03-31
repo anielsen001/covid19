@@ -25,6 +25,8 @@
 
 [[https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3][PRUSA design RC3]]
 
+[[https://www.prusaprinters.org/prints/27822-face-shield-rc2-with-bandana-attachment-for-evelyn][PRUSA RC3 with bandana attachments]]
+
 ** Face mask designs
 
 [[https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2][PRUSA]] and [[https://www.youtube.com/watch?v=pP7z3iw76GA][on youtube]]
