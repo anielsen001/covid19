@@ -22,7 +22,11 @@ df = pd.read_json('https://covidtracking.com/api/v1/states/daily.json') # gets a
 # convert date into date format
 df['date'] = pd.to_datetime(df['date'],format = '%Y%m%d')
 
-dfs = df[ df['state'] == 'OH' ] 
+dfs = df[ df['state'] == 'OH' ]
+
+# find the cumulative days since the start of the data record
+dfs['cumdays'] = dfs.apply( lambda x : (x.date - dfs.date.iloc[-1]).days, axis = 1 )
+# sns.lmsplot can plot with x-axis of cumdays, it cannot use timestamps or other fancy types PITA
 
 # plot
 plt.figure()
